@@ -55,7 +55,7 @@ Some other notes shall be hosted with these GitHub Pages. This is especially tru
 | Repo | Accessibility | Notes | Detail |
 |-|-|-|-|
 | [Xamarin.Forms](https://github.com/UchiTesting/UDEMY-Xamarin-Forms) | Public | [Notes.md](https://github.com/UchiTesting/UDEMY-Xamarin-Forms/blob/master/md/Notes.md) | Content from the Xamarin.Forms course by [Mosh Hamedani](https://github.com/mosh-hamedani) |
-| [ASP .NET MVC]() | Private | N/A | Content from [Mosh Hamedani](https://github.com/mosh-hamedani) ASP .NET MVC course. Back then I was not pushing notes. The least I can say is I regret it now... 🙁 |
+| [ASP .NET MVC](https://github.com/UchiTesting/UDEMY-ASP-MVC-EN) | Private | N/A | Content from [Mosh Hamedani](https://github.com/mosh-hamedani) ASP .NET MVC course. Back then I was not pushing notes. The least I can say is I regret it now... 🙁 (WIP) |
 | [Entity Framework In Depth - The Complete Guide](https://github.com/UchiTesting/UD-MH-EntityFramework) | Private | [Notes.md](https://github.com/UchiTesting/UD-MH-EntityFramework/blob/master/md/Notes.md) | Content related to the course on Entity Framework by [Mosh Hamedani](https://github.com/mosh-hamedani) |
 
 ##### Others
@@ -90,7 +90,7 @@ Some other notes shall be hosted with these GitHub Pages. This is especially tru
 
 | Repo | Accessibility | Notes | Detail |
 |-|-|-|-|
-| [Microsoft Blazor Tutorial](https://github.com/UchiTesting/Tutorial-Blazor) | Public | [Notes.md](https://github.com/UchiTesting/Tutorial-Blazor/blob/master/md/Notes.md) | Turorial from the official MSDN. I found that DevExpress makes a "better" tutorial IMHO on YouTube |
+| [Microsoft Blazor Tutorial](https://github.com/UchiTesting/Tutorial-Blazor) | Public | [Notes.md](https://github.com/UchiTesting/Tutorial-Blazor/blob/master/md/Notes.md) | Tutorial from the official MSDN. I found that DevExpress makes a "better" tutorial IMHO on YouTube |
 | [SpecFlow Demo](https://github.com/UchiTesting/SpecFlow-Demo) | Public | N/A | Demo of SpecFlow Gherkin tests for C# |
 | [C# WPF Tutorials](https://github.com/UchiTesting/CSWPF-Tutorials) | Private | N/A | WPF and C# tutorial documentation |
 | [Docs](https://github.com/UchiTesting/Docs) | Private | N/A | Some docs I gathered |
