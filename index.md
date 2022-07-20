@@ -37,7 +37,7 @@ Some other notes shall be hosted with these GitHub Pages. This is especially tru
 | [IFA C# 2001](https://github.com/UchiTesting/IFA-dotNet-20.01) | Public | N/A | .NET C# codes from IFA training for January 2020 |
 | [IFA C# 2002](https://github.com/UchiTesting/IFA-dotNet-20.02) | Public | N/A | .NET C# codes from IFA training for February 2020 |
 | [IFA C# 2003](https://github.com/UchiTesting/IFA-dotNet-20.03) | Public | N/A | .NET C# codes from IFA training for March 2020 |
-| [IFA C# 2004](https://github.com/UchiTesting/IFA-dotNet-20.04) | Public | N/A | .NET C# codes from IFA training for March 2020 |
+| [IFA C# 2004](https://github.com/UchiTesting/IFA-dotNet-20.04) | Public | N/A | .NET C# codes from IFA training for April 2020 |
 | [IFA C# 2005](https://github.com/UchiTesting/IFA-dotNet-20.05) | Public | N/A | .NET C# codes from IFA training for May 2020 |
 | [IFA C# 2006](https://github.com/UchiTesting/IFA-dotNet-20.06) | Public | N/A | .NET C# codes from IFA training for June 2020 |
 | [IFA Web Angular](https://github.com/UchiTesting/IFA-Web-SiteAngular) | Public | N/A | Introduction to Angular at IFA Metz. It is the tour of heroes from the official site. I shall start this over should I ever want to know that technology |
@@ -55,7 +55,7 @@ Some other notes shall be hosted with these GitHub Pages. This is especially tru
 | Repo | Accessibility | Notes | Detail |
 |-|-|-|-|
 | [Xamarin.Forms](https://github.com/UchiTesting/UDEMY-Xamarin-Forms) | Public | [Notes.md](https://github.com/UchiTesting/UDEMY-Xamarin-Forms/blob/master/md/Notes.md) | Content from the Xamarin.Forms course by [Mosh Hamedani](https://github.com/mosh-hamedani) |
-| [ASP .NET MVC](https://github.com/UchiTesting/UDEMY-ASP-MVC-EN) | Private | N/A | Content from [Mosh Hamedani](https://github.com/mosh-hamedani) ASP .NET MVC course. Back then I was not pushing notes. The least I can say is I regret it now... 🙁 (WIP) |
+| [ASP .NET MVC](https://github.com/UchiTesting/UDEMY-ASP-MVC-EN) | Private | [Notes.md](https://github.com/UchiTesting/UDEMY-ASP-MVC-EN/blob/master/md/Notes.md) | Content from [Mosh Hamedani](https://github.com/mosh-hamedani) ASP .NET MVC course. |
 | [Entity Framework In Depth - The Complete Guide](https://github.com/UchiTesting/UD-MH-EntityFramework) | Private | [Notes.md](https://github.com/UchiTesting/UD-MH-EntityFramework/blob/master/md/Notes.md) | Content related to the course on Entity Framework by [Mosh Hamedani](https://github.com/mosh-hamedani) |
 
 ##### Others
