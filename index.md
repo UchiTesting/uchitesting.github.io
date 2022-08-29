@@ -28,6 +28,7 @@ Some other notes shall be hosted with these GitHub Pages. This is especially tru
 | [Principles of Programming - C#](https://github.com/UchiTesting/UT-PoP-CS) | Private | [Notes.md](https://github.com/UchiTesting/UT-PoP-CS/blob/master/md/Notes.md) | Don't mind the fancy name. It is just a bunch of demos with C# |
 | [Principles of Programming - JavaScript](https://github.com/UchiTesting/UT-PoP-JS) | Private | [Index.md](https://github.com/UchiTesting/UT-PoP-JS/blob/master/md/Index.md) | The counter part to the above repo but for JavaScript |
 | [Transform](https://github.com/UchiTesting/UT-TransForm) | Private | N/A | Some code I made to help a colleague solve a problem |
+| [Project GenMa](https://github.com/UchiTesting/GenMa) | Private | N/A | A personal project based on .NET MAUI. It is a simple helper tool to compute data related to the Genshin Impact game. Also a way to put what I learnt from the [Microsoft Learn .NET MAUI Learning Path](https://docs.microsoft.com/en-us/learn/paths/build-apps-with-dotnet-maui/) into practice. |
 
 ### Related to my training at IFA Metz
 
