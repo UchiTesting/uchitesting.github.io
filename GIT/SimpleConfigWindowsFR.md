@@ -1,5 +1,5 @@
-Configuration SSH simplifié pour GitHub
-=======================================
+Configuration SSH simplifiée pour GitHub
+========================================
 
 > Les instructions concernent Windows.
 
