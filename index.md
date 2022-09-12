@@ -5,7 +5,7 @@ This page shall gather notes I have taken from topics I learnt.
 
 Some of those are in private repositories and won't be accessible to you. A few of them won't even be listed here. They are just listed for my own convenience to see what have notes, what should be added notes and overall to access them easily.
 
-Some other notes shall be hosted with these GitHub Pages. This is especially true when they are not linked to any repository. I shall port other notes to there.
+Some other notes shall be hosted with these GitHub Pages. This is especially true when they are not linked to any repository. I shall port other notes in there bit by bit. See the [index of available local notes](<LocalNotes.md>).
 
 ## Repo listing
 
