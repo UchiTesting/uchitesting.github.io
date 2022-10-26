@@ -55,9 +55,9 @@ Some other notes shall be hosted with these GitHub Pages. This is especially tru
 
 | Repo | Accessibility | Notes | Detail |
 |-|-|-|-|
-| [Xamarin.Forms](https://github.com/UchiTesting/UDEMY-Xamarin-Forms) | Public | [Notes.md](https://github.com/UchiTesting/UDEMY-Xamarin-Forms/blob/master/md/Notes.md) | Content from the Xamarin.Forms course by [Mosh Hamedani](https://github.com/mosh-hamedani) |
 | [ASP .NET MVC](https://github.com/UchiTesting/UDEMY-ASP-MVC-EN) | Private | [Notes.md](https://github.com/UchiTesting/UDEMY-ASP-MVC-EN/blob/master/md/Notes.md) | Content from [Mosh Hamedani](https://github.com/mosh-hamedani) ASP .NET MVC course. |
 | [Entity Framework In Depth - The Complete Guide](https://github.com/UchiTesting/UD-MH-EntityFramework) | Private | [Notes.md](https://github.com/UchiTesting/UD-MH-EntityFramework/blob/master/md/Notes.md) | Content related to the course on Entity Framework by [Mosh Hamedani](https://github.com/mosh-hamedani) |
+| [Xamarin.Forms](https://github.com/UchiTesting/UDEMY-Xamarin-Forms) | Private | [Notes.md](https://github.com/UchiTesting/UDEMY-Xamarin-Forms/blob/master/md/Notes.md) | Content from the Xamarin.Forms course by [Mosh Hamedani](https://github.com/mosh-hamedani) |
 
 ##### Others
 
