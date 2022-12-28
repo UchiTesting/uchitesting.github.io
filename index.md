@@ -96,3 +96,4 @@ Some other notes shall be hosted with these GitHub Pages. This is especially tru
 | [C# WPF Tutorials](https://github.com/UchiTesting/CSWPF-Tutorials) | Private | N/A | WPF and C# tutorial documentation |
 | [Docs](https://github.com/UchiTesting/Docs) | Private | N/A | Some docs I gathered |
 | [Mastering React](https://github.com/UchiTesting/MH-React-Full) | Private | [Notes.md](https://github.com/UchiTesting/MH-React-Full/blob/master/md/Notes.md) | Full React Course by [Mosh Hamedani](https://github.com/mosh-hamedani) @CodeWithMosh.com |
+| [Architecting Xamarin.Forms Applications for Code Reuse](https://github.com/UchiTesting/PS-Xamarin-Archi) | Private | [Notes.md](https://github.com/UchiTesting/PS-Xamarin-Archi/blob/master/md/Notes.md) | Course by [Jared Rhodes](https://github.com/QiMata) @PluralSight |
