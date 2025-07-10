@@ -7,3 +7,4 @@ Some of the notes locally available to this GitHub Pages are listed here.
 |-|-|
 | GIT | [Configuration SSH simplifiée pour GitHub](<./GIT/SimpleConfigWindowsFR.html>) |
 | GIT | [GIT Command Reference](<./GIT/GitCommands.html>)|
+| GIT | [Git Pro Tips](<./GIT/ProTips.html>)|
